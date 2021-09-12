@@ -1,0 +1,1 @@
+repositorio da disciplina de computacao paralela
